@@ -25,7 +25,8 @@ git push origin '본인 브랜치명' # 오리진에 푸시
 
 ```bash
 .
-├── README.md               # 프로젝트 설명 리드미 (수정X)
+├── README.md    # 프로젝트 설명 리드미 (수정X)
+├── requirements.txt
 ├── .gitignore
 ├── prompt_engineering/
 │   └── 실습_코드.ipynb
