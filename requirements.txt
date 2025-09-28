@@ -13,3 +13,4 @@ langchain
 tiktoken
 python-dotenv
 unstructured 
+import-ipynb
