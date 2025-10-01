@@ -2,14 +2,25 @@
 ## pip install -r requirements.txt
 ## 가상환경 설정 후 vscode 인터프리터 확인 꼭 하기
 ## (하단 상태 표시줄 or Ctrl+Shift+P -> python: select interpreter)
+
+# Core dependencies
 openai
 python-dotenv
-huggingface-hub
+chromadb
+
+# Web crawling
+beautifulsoup4
+requests
+lxml
+
+# Data processing
 numpy
 pandas
 datasets
-chromadb
+
+# Additional tools
+huggingface-hub
 langchain
 tiktoken
-python-dotenv
-unstructured 
+unstructured
+import-ipynb
