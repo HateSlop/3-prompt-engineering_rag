@@ -107,74 +107,36 @@ print("\n")
 # 4. Temperature/Top-p: temperature ∈ {0.2, 0.7, 1.0} × 각 3회 반복 → 다양성/일관성 비교
 
 print("temperature = 0.2 (3번 반복)\n")
-completion = client.chat.completions.create(
+for i in range(3):
+    completion = client.chat.completions.create(
     model="gpt-4o-mini",
     temperature=0.2,
     messages=[{"role": "user", "content": "대학생과 관련된 소설을 200자 이내로 써줘."}]
-)
-print(completion.choices[0].message.content, "\n")
+    )
+    print(completion.choices[0].message.content, "\n")
 
-completion = client.chat.completions.create(
-    model="gpt-4o-mini",
-    temperature=0.2,
-    messages=[{"role": "user", "content": "대학생과 관련된 소설을 200자 이내로 써줘."}]
-)
-print(completion.choices[0].message.content, "\n")
-
-completion = client.chat.completions.create(
-    model="gpt-4o-mini",
-    temperature=0.2,
-    messages=[{"role": "user", "content": "대학생과 관련된 소설을 200자 이내로 써줘."}]
-)
-print(completion.choices[0].message.content, "\n")
 
 print("\n")
 print("temperature = 0.7 (3번 반복)\n")
 
-completion = client.chat.completions.create(
+for i in range(3):
+    completion = client.chat.completions.create(
     model="gpt-4o-mini",
     temperature=0.7,
     messages=[{"role": "user", "content": "대학생과 관련된 소설을 200자 이내로 써줘."}]
-)
-print(completion.choices[0].message.content, "\n")
-
-completion = client.chat.completions.create(
-    model="gpt-4o-mini",
-    temperature=0.7,
-    messages=[{"role": "user", "content": "대학생과 관련된 소설을 200자 이내로 써줘."}]
-)
-print(completion.choices[0].message.content, "\n")
-
-completion = client.chat.completions.create(
-    model="gpt-4o-mini",
-    temperature=0.7,
-    messages=[{"role": "user", "content": "대학생과 관련된 소설을 200자 이내로 써줘."}]
-)
-print(completion.choices[0].message.content, "\n")
+    )
+    print(completion.choices[0].message.content, "\n")
 
 print("\n")
 print("temperature = 1.0 (3번 반복)\n")
 
-completion = client.chat.completions.create(
+for i in range(3):
+    completion = client.chat.completions.create(
     model="gpt-4o-mini",
     temperature=1.0,
     messages=[{"role": "user", "content": "대학생과 관련된 소설을 200자 이내로 써줘."}]
-)
-print(completion.choices[0].message.content, "\n")
-
-completion = client.chat.completions.create(
-    model="gpt-4o-mini",
-    temperature=1.0,
-    messages=[{"role": "user", "content": "대학생과 관련된 소설을 200자 이내로 써줘."}]
-)
-print(completion.choices[0].message.content, "\n")
-
-completion = client.chat.completions.create(
-    model="gpt-4o-mini",
-    temperature=1.0,
-    messages=[{"role": "user", "content": "대학생과 관련된 소설을 200자 이내로 써줘."}]
-)
-print(completion.choices[0].message.content, "\n")
+    )
+    print(completion.choices[0].message.content, "\n")
 
 # 5. Prompt Injection: 시스템 규칙 선언 후, 사용자의 무시 지시(인젝션) 시도 → 규칙 준수 여부 수동 라벨(OK/VIOLATION)
 
