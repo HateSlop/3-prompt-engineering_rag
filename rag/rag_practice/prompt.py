@@ -10,8 +10,8 @@ completion = client.chat.completions.create(
     model="gpt-4o-mini",
     messages=[
         {"role": "system", "content": "너는 시골 할아버지로, 따뜻하고 친절한 말투를 사용해."},
-        {"role": "user", "content": "바다에 대해 설명해줘."}
-    ]
+        {"role": "user", "content": "바다에 대해 설명해줘."},
+    ],
 )
 print("1.", completion.choices[0].message.content, "\n")
 
@@ -19,8 +19,8 @@ completion = client.chat.completions.create(
     model="gpt-4o-mini",
     messages=[
         {"role": "system", "content": "너는 무서운 선생님으로, 차갑고 딱딱한 말투를 사용해."},
-        {"role": "user", "content": "바다에 대해 설명해줘."}
-    ]
+        {"role": "user", "content": "바다에 대해 설명해줘."},
+    ],
 )
 print("2.", completion.choices[0].message.content, "\n")
 
@@ -28,8 +28,8 @@ completion = client.chat.completions.create(
     model="gpt-4o-mini",
     messages=[
         {"role": "system", "content": "너는 나의 10년 지기 친구로, 친근한 말투를 사용해."},
-        {"role": "user", "content": "바다에 대해 설명해줘."}
-    ]
+        {"role": "user", "content": "바다에 대해 설명해줘."},
+    ],
 )
 print("3.", completion.choices[0].message.content, "\n")
 
@@ -37,8 +37,8 @@ completion = client.chat.completions.create(
     model="gpt-4o-mini",
     messages=[
         {"role": "system", "content": "너는 세상의 모든 것을 다 아는 천재 AI로 냉소적인 말투를 사용해."},
-        {"role": "user", "content": "바다에 대해 설명해줘."}
-    ]
+        {"role": "user", "content": "바다에 대해 설명해줘."},
+    ],
 )
 print("4.", completion.choices[0].message.content, "\n")
 
@@ -52,8 +52,8 @@ completion = client.chat.completions.create(
     messages = [
     {"role": "system", "content": "Q에 대해 간단한 한 문장으로 A를 작성해."},
     {"role": "user", "content": "Q: 하늘은 왜 파란가요?\nA: 대기 중의 산란 현상 때문이에요."},
-    {"role": "user", "content": "Q: 바다는 왜 짠가요?\n"}
-]
+    {"role": "user", "content": "Q: 바다는 왜 짠가요?\n"},
+],
 )
 print("1.",completion.choices[0].message.content)
 
@@ -63,17 +63,17 @@ completion = client.chat.completions.create(
     {"role": "system", "content": "Q에 대해 간단한 한 문장으로 A를 작성해."},
     {"role": "user", "content": "Q: 하늘은 왜 파란가요?\nA: 대기 중의 산란 현상 때문이에요."},
     {"role": "user", "content": "Q: 커피는 왜 잠을 깨워주나요?\nA: 카페인이 뇌를 자극하기 때문이에요."},
-    {"role": "user", "content": "Q: 단풍은 왜 붉게 물드나요??\nA: 엽록소가 줄어들면서 녹색이 사라지고, 안토시아닌이 잎을 붉게 물들게 하기 때문이에요."}
-    {"role": "user", "content": "Q: 바다는 왜 짠가요?\n"}
-]
+    {"role": "user", "content": "Q: 단풍은 왜 붉게 물드나요??\nA: 엽록소가 줄어들면서 녹색이 사라지고, 안토시아닌이 잎을 붉게 물들게 하기 때문이에요."},
+    {"role": "user", "content": "Q: 바다는 왜 짠가요?\n"},
+],
 )
 print("2.",completion.choices[0].message.content)
 
 completion = client.chat.completions.create(
     model="gpt-4o-mini",
     messages = [
-    {"role": "user", "content": "Q: 바다는 왜 짠가요?\n"}
-]
+    {"role": "user", "content": "Q: 바다는 왜 짠가요?\n"},
+],
 )
 print("3.",completion.choices[0].message.content)
 
@@ -86,7 +86,7 @@ completion = client.chat.completions.create(
         {
             "role": "user",
             "content": "모든 인간은 죽습니다. 소크라테스는 인간입니다. 소크라테스는 죽나요?",
-        }
+        },
     ],
 )
 print("1.", completion.choices[0].message.content)
@@ -97,7 +97,7 @@ completion = client.chat.completions.create(
         {
             "role": "user",
             "content": "모든 인간은 죽습니다. 소크라테스는 인간입니다. 소크라테스는 죽는지 단계적으로 설명해주세요.",
-        }
+        },
     ],
 )
 print("2.", completion.choices[0].message.content)

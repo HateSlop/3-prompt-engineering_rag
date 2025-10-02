@@ -91,10 +91,9 @@ for index, book_url in enumerate(book_urls, start=1):
         })
 
     except Exception as e:
-        print(f"[스킵] {book_url} -> {e}")
         continue
 
 df = pd.DataFrame(dic, columns=['제목','저자','가격','태그','Link'])
 print(df.head(10))
 df.to_csv('yes24_bestseller.csv', index=False, encoding='utf-8-sig')
-print("CSV 저장 완료 → yes24_bestseller.csv")
+print("CSV 저장 완료")
