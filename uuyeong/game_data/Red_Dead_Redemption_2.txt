@@ -1,0 +1,33 @@
+게임 이름: Red Dead Redemption 2
+
+URL: https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/
+
+가격: ₩ 18,250
+
+리뷰 정보:
+RECENT REVIEWS:
+Very Positive (10,024) ENGLISH REVIEWS:
+Very Positive (261,946) 
+
+게임 설명:
+Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age. Also includes access to the shared living world of Red Dead Online.
+
+시스템 요구사양:
+MINIMUM:
+Requires a 64-bit processor and operating system
+OS: Windows 10 - 64-bit
+Processor: Intel® Core™ i5-2500K / AMD FX-6300
+Memory: 8 GB RAM
+Graphics: Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB
+Network: Broadband Internet connection
+Storage: 150 GB available space
+Sound Card: Direct X Compatible
+RECOMMENDED:
+Requires a 64-bit processor and operating system
+OS: Windows 10 - 64-bit
+Processor: Intel® Core™ i7-4770K / AMD Ryzen 5 1500X
+Memory: 12 GB RAM
+Graphics: Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB
+Network: Broadband Internet connection
+Storage: 150 GB available space
+Sound Card: Direct X Compatible

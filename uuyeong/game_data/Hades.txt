@@ -1,0 +1,28 @@
+게임 이름: Hades
+
+URL: https://store.steampowered.com/app/1145360/Hades/
+
+가격: ₩ 2,750
+
+리뷰 정보:
+RECENT REVIEWS:
+Overwhelmingly Positive (2,891) ENGLISH REVIEWS:
+Overwhelmingly Positive (133,324) 
+
+게임 설명:
+Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion, Transistor, and Pyre.
+
+시스템 요구사양:
+MINIMUM:
+OS *: Windows 7 SP1
+Processor: Dual Core 2.4 GHz
+Memory: 4 GB RAM
+Graphics: 1GB VRAM / DirectX 10+ support
+Storage: 15 GB available space
+RECOMMENDED:
+OS *: Windows 7 SP1
+Processor: Dual Core 3.0 GHz+
+Memory: 8 GB RAM
+Graphics: 2GB VRAM / DirectX 10+ support
+Storage: 20 GB available space
+* Starting January 1st, 2024, the Steam Client will only support Windows 10 and later versions.
