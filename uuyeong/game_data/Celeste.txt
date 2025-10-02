@@ -1,0 +1,23 @@
+게임 이름: Celeste
+
+URL: https://store.steampowered.com/app/504230/Celeste/
+
+가격: ₩ 2,470
+
+리뷰 정보:
+RECENT REVIEWS:
+Overwhelmingly Positive (1,479) ENGLISH REVIEWS:
+Overwhelmingly Positive (54,069) 
+
+게임 설명:
+Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.
+
+시스템 요구사양:
+MINIMUM:
+OS *: Windows 7 or newer
+Processor: Intel Core i3 M380
+Memory: 2 GB RAM
+Graphics: Intel HD 4000
+DirectX: Version 10
+Storage: 1200 MB available space
+* Starting January 1st, 2024, the Steam Client will only support Windows 10 and later versions.
