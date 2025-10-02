@@ -1,0 +1,24 @@
+게임 이름: Portal 2
+
+URL: https://store.steampowered.com/app/620/Portal_2/
+
+가격: ₩ 2,200
+
+리뷰 정보:
+RECENT REVIEWS:
+Overwhelmingly Positive (1,893) ENGLISH REVIEWS:
+Overwhelmingly Positive (162,753) 
+
+게임 설명:
+The "Perpetual Testing Initiative" has been expanded to allow you to design co-op puzzles for you and your friends!
+
+시스템 요구사양:
+MINIMUM:
+OS *: Windows 7 / Vista / XP
+Processor: 3.0 GHz P4, Dual Core 2.0 (or higher) or AMD64X2 (or higher)
+Memory: 2 GB RAM
+Graphics: Video card must be 128 MB or more and with support for Pixel Shader 2.0b (ATI Radeon X800 or higher / NVIDIA GeForce 7600 or higher / Intel HD Graphics 2000 or higher).
+DirectX: Version 9.0c
+Storage: 8 GB available space
+Sound Card: DirectX 9.0c compatible
+* Starting January 1st, 2024, the Steam Client will only support Windows 10 and later versions.

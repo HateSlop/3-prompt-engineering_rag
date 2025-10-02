@@ -1,0 +1,30 @@
+게임 이름: Terraria
+
+URL: https://store.steampowered.com/app/105600/Terraria/
+
+가격: ₩ 5,600
+
+리뷰 정보:
+RECENT REVIEWS:
+Overwhelmingly Positive (5,962) ENGLISH REVIEWS:
+Overwhelmingly Positive (565,983) 
+
+게임 설명:
+Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!
+
+시스템 요구사양:
+REQUIRED
+OS: Windows Xp, Vista, 7, 8/8.1, 10
+Processor: 2.0 Ghz
+Memory: 2.5GB
+Hard Disk Space: 200MB
+Video Card: 128mb Video Memory, capable of Shader Model 2.0+
+DirectX®: 9.0c or Greater
+RECOMMENDED
+OS: Windows 7, 8/8.1, 10
+Processor: Dual Core 3.0 Ghz
+Memory: 4GB
+Hard Disk Space: 200MB
+Video Card: 256mb Video Memory, capable of Shader Model 2.0+
+DirectX®: 9.0c or Greater
+* Starting January 1st, 2024, the Steam Client will only support Windows 10 and later versions.
